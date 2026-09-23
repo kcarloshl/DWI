@@ -243,15 +243,15 @@ tr :hover {
     margin-bottom: 15px;
 }
 
-.tabela-horarios {
+.tbl-horarios {
     font-size: 15px;
 }
 
-.tabela-horarios th {
+.tbl-horarios th {
     text-align: center;
 }
 
-.tabela-horarios td {
+.tbl-horarios td {
     text-align: center;
 }
 
@@ -270,16 +270,4 @@ tr :hover {
 
 .proxima-aula p {
     margin-bottom: 8px;
-}
-
-.tabela-horarios {
-    font-size: 15px;
-}
-
-.tabela-horarios th {
-    text-align: center;
-}
-
-.tabela-horarios td {
-    text-align: center;
 }
