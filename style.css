@@ -271,3 +271,15 @@ tr :hover {
 .proxima-aula p {
     margin-bottom: 8px;
 }
+
+.tabela-horarios {
+    font-size: 15px;
+}
+
+.tabela-horarios th {
+    text-align: center;
+}
+
+.tabela-horarios td {
+    text-align: center;
+}
